@@ -27,8 +27,6 @@ function VideoSidebar({ likes, shares, messages }) {
                 <ShareIcon fontSize="large" />
                 <p>{shares}</p>
             </div>
-
-
         </div>
     )
 }
